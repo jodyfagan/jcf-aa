@@ -23,6 +23,14 @@
         "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
         "type": "Canvas",
         "duration": 632,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-maybe.json",
+            "label": "Transcription-Maybe"
+          }
+        ],
         "items": [
           {
             "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/paintings",

@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois." ] },
+    "summary": { "en": [ "Workshop project for April 4th, 2022" ] },
+    "items": [
+    ]
+}

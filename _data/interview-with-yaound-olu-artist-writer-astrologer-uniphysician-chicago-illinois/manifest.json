@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois" ] },
+    "homepage": [
+      {
+        "id": "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois",
+        "type": "Text",
+        "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.loc.gov",
+        "type": "Agent",
+        "label": { "en": [ "Provider Name – the organization that made the recording available. Our Provider is The Library of Congress" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 632,
+        "items": [
+          {
+            "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois",
+                    "duration": 632
+                },
+                "target": "https://jodyfagan.github.io/jcf-aa/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
